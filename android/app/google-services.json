@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690845688972",
+    "project_id": "zeroto-6eac0",
+    "storage_bucket": "zeroto-6eac0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690845688972:android:2130c8e0cb36596c5007a9",
+        "android_client_info": {
+          "package_name": "com.zeroto.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgbshOYWJnYe_xhQ9qQbR21j3zUSntdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
